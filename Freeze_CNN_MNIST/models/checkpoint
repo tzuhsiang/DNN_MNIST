@@ -1,0 +1,2 @@
+model_checkpoint_path: "/notebooks/DNN_thhuang/Freeze_CNN_MNIST/models/cnn_mnist"
+all_model_checkpoint_paths: "/notebooks/DNN_thhuang/Freeze_CNN_MNIST/models/cnn_mnist"
